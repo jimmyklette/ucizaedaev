@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peicheerie.cereal.co/sitemap.xml
